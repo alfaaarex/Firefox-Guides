@@ -18,3 +18,25 @@ Here's the guide!
 
 
 But wait, are you looking for some themes to start with? Oh, everything's right here :D. Here are a few themes right here. Find more of them at the [FirefoxCSS-Store!](https://firefoxcss-store.github.io)
+
+### [Firefox Mod Blur](https://github.com/datguypiko/Firefox-Mod-Blur)
+
+![image](https://camo.githubusercontent.com/cdaf607d51f63b788061a962b96e8586c9870577eee479045a62b1f5d9bdb0a7/68747470733a2f2f692e696d6775722e636f6d2f6930784c4a52312e706e67)
+
+<hr>
+
+### [MaterialFox](https://github.com/muckSponge/MaterialFox)
+
+![image](https://user-images.githubusercontent.com/5405629/45172944-21d91900-b24a-11e8-8bc5-03814121b0de.png)
+
+<hr>
+
+### [FlyingFox](https://github.com/akshat46/FlyingFox)
+
+![image](https://github.com/akshat46/FlyingFox/raw/master/img/preview-full.png)
+
+<hr>
+
+### [Edge-FrFox](https://github.com/bmFtZQ/Edge-FrFox)
+
+![image](https://github.com/bmFtZQ/Edge-FrFox/raw/main/screenshots/Edge-FrFox-theme.png)
