@@ -1,4 +1,4 @@
-# Guide to installing Firefox Themes.
+# Winthemers' Firefox Guides
 Firefox is one of the world's leading web browsers. With up to date features, advanced web technology and profile sync, it is used by most IT professionals, and is maintained by Mozilla Inc. as a free, open source and for the people. But what makes it even better is that since the entire UI is CSS, you can actually use a custom UI for your copy of Firefox! And, many creators have already worked on them, to make gorgeous and amazing themes.
 
 But how do you install it?
