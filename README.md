@@ -15,3 +15,6 @@ Here's the guide!
 >     2. Search for `toolkit.legacyUserProfileCustomizations.stylesheets` and set it to `true` by clicking on the arrow button.
 > 5. Restart Firefox.
 > 6. You're done!
+
+
+But wait, are you looking for some themes to start with? Oh, everything's right here :D. Here are a few themes right here. Find more of them at the [FirefoxCSS-Store!](https://firefoxcss-store.github.io)
